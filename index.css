@@ -1,0 +1,17 @@
+button{
+    border: none;
+    padding: 10px 0;
+    color: black ;
+    font-weight: bold;  
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
